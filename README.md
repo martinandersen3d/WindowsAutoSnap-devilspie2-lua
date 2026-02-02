@@ -7,8 +7,10 @@ Automatically position and resize application windows based on screen resolution
 This Lua script runs under Devilspie2 to automatically snap application windows to predefined positions and sizes whenever they gain focus. Perfect for multi-monitor setups or when you want consistent window layouts across different screen resolutions.
 
 **Supports:**
-- 5120x1440 (dual monitors setup)
-- 2560x1600 (single ultrawide or standard monitor)
+- Different presets can be made for each screen resolution.
+- Script is currently configured for:
+   - 5120x1440 (single monitors setup)
+   - 2560x1600 (single monitors setup)
 
 **Applications included:**
 - Browsers (Firefox, Chrome, Chromium, Brave)
